@@ -1,0 +1,15 @@
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\bin\Debug\net9.0\linkedlist.exe
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\bin\Debug\net9.0\linkedlist.deps.json
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\bin\Debug\net9.0\linkedlist.runtimeconfig.json
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\bin\Debug\net9.0\linkedlist.dll
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\bin\Debug\net9.0\linkedlist.pdb
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.AssemblyInfoInputs.cache
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.AssemblyInfo.cs
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.csproj.CoreCompileInputs.cache
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.sourcelink.json
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.dll
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\refint\linkedlist.dll
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.pdb
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\linkedlist.genruntimeconfig.cache
+D:\GitHub\PolarCode Solutions\CS-OOP-PROBLEMSOLVING\linkedlist\obj\Debug\net9.0\ref\linkedlist.dll
